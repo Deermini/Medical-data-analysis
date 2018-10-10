@@ -1,5 +1,6 @@
 # Medical-data-analysis（基础版）
 对儿童医疗数据进行分析，辅助医生诊断。
+GAN_for_medical  https://github.com/Deermini/GAN_for_medical
 
 代码运行：
 --------------
